@@ -1,0 +1,5 @@
+equality check of string --> [ $a=$b ]
+not equal --> [ $a!=$b ]
+check for length of string 0 or not --> [ -z$a ]
+check for length of string is nonzero or not --> [ -n$a ]
+check for empty string --> [ $a ]
